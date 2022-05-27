@@ -17,7 +17,7 @@ In my spare time, I bake, hike, and draw. I plan to graduate with my M.S. in Com
 
 ## About My Advisor
 
-Advisor info goes here.
+[Lenore Cowen](http://www.cs.tufts.edu/~cowen/) is a professor of Computer Science at Tufts University. She holds a B.A. in Mathematics from Yale and a Ph.D. in Mathematics from MIT. Her primary research areas are in graphs, networks, and algorithms and their applications in computational molecular biology. 
 
 ## About My Project
 
