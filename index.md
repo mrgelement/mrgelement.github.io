@@ -3,9 +3,6 @@ layout: home
 title: DREAM Project Site
 ---
 
-* TOC
-{:toc}
-
 ## About Me
 
 I am a Master’s in Computer Science candidate at Tufts University in Medford, MA. Prior to my arrival at Tufts, I spent three years working at a literary agency in Brooklyn, NY. I earned a B.S. in Biology from The University of Alabama in 2016, where I wrote my honors senior thesis on the use of liquid chromatography-mass spectrometry (LC-MS) to detect endocrine-disrupting compounds in mangrove rivulus (Kryptolebias marmoratus) tissues.
