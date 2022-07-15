@@ -38,4 +38,4 @@ I will explore and analyze the results of various approaches to these two aims. 
 
 ## My Blog
 
-[My Blog](blog.html)
+I update [my weekly blog here](blog.html).
