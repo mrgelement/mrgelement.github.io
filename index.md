@@ -22,8 +22,8 @@ DNA double-stranded breaks (DSBs) are very common and caused by a multitude of e
 
 The goal of my research this summer will be to characterize DSB repair both broadly and in the context of a specific error-prone pathway known as synthesis-dependent microhomology-mediated end-joining (SD-MMEJ). Given a dataset of ~1,100 partly-randomized DNA constructs subject to Cas9-induced double-stranded breaks and subsequently repaired and sequenced, I will explore whether we can use sequence characteristics to characterize patterns in erroneous repair. A broad overview of the project splits this problem into two parts:
 
-1.	Cluster constructs into “buckets” based on sequence characteristics
-2.	Examine whether constructs within the same bucket share similar “repair events” or mutations that occur during repair
+1.	Cluster constructs into bins based on sequence characteristics
+2.	Examine whether constructs within the same bin share similar “repair events” or mutations that occur during repair
 
 I will explore and analyze the results of various approaches to these two aims. This project is being developed in collaboration with the [McVey Lab](https://ase.tufts.edu/biology/labs/mcvey/), which studies DNA damage and repair using _Drosophila melanogaster_. 
 
