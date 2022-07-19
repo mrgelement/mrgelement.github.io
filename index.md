@@ -5,7 +5,7 @@ title: DREAM Project Site
 
 ## About Me
 
-I am a Master’s in Computer Science candidate at Tufts University in Medford, MA. Prior to my arrival at Tufts, I spent three years working at a literary agency in Brooklyn, NY. I earned a B.S. in Biology from The University of Alabama in 2016, where I wrote my honors senior thesis on the use of liquid chromatography-mass spectrometry (LC-MS) to detect endocrine-disrupting compounds in mangrove rivulus (Kryptolebias marmoratus) tissues.
+I am a Master’s in Computer Science candidate at Tufts University in Medford, MA. Prior to my arrival at Tufts, I spent three years working at a literary agency in Brooklyn, NY. I earned a B.S. in Biology from The University of Alabama in 2016, where I wrote my honors senior thesis on the use of liquid chromatography-mass spectrometry (LC-MS) to detect endocrine-disrupting compounds in mangrove rivulus (*Kryptolebias marmoratus*) tissues.
  
 While at Tufts, I’ve been active in computational biology research: I’ve contributed to the development of a disease gene prioritization algorithm and am currently working on a project analyzing DNA repair. I am expanding on the DNA repair analysis for the DREAM program this summer.
  
@@ -25,7 +25,7 @@ The goal of my research this summer will be to characterize DSB repair both broa
 1.	Cluster constructs into bins based on sequence characteristics
 2.	Examine whether constructs within the same bin share similar “repair events” or mutations that occur during repair
 
-I will explore and analyze the results of various approaches to these two aims. This project is being developed in collaboration with the [McVey Lab](https://ase.tufts.edu/biology/labs/mcvey/), which studies DNA damage and repair using _Drosophila melanogaster_. 
+I will explore and analyze the results of various approaches to these two aims. This project is being developed in collaboration with the [McVey Lab](https://ase.tufts.edu/biology/labs/mcvey/), which studies DNA damage and repair using *Drosophila melanogaster*. 
 
 
 ### References
