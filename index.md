@@ -33,7 +33,7 @@ I will explore and analyze the results of various approaches to these two aims. 
 1.	Cannan, W. J. and Pederson, D.S., “Mechanisms and Consequences of Double-Strand DNA Break Formation in Chromatin,”  Journal of Cellular Physiology, Vol. 231, No. 1, pp. 3-14, January 2016. doi: 10.1002/jcp.25048
 2.	Hanscom, T. and McVey, M., “Regulation of Error-Prone DNA Double-Strand Break Repair and Its Impact on Genome Evolution,” Cells, Vol. 9, No. 7, July 2020. Doi: 10.3390/cells9071657
 
-[My Final Report](files/finalreport.pdf)
+[Once written, my final report will be available here.](files/finalreport.pdf)
 
 
 ## My Blog
