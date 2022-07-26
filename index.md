@@ -20,12 +20,12 @@ In my spare time, I bake, hike, and draw. I plan to graduate with my M.S. in Com
 
 DNA double-stranded breaks (DSBs) are very common and caused by a multitude of events, from chemotherapy treatments to errors in DNA replication. Improper repair can be detrimental to the cell and, in some cases, to human health<sup>1</sup>. Repair of these breaks occurs through a variety of mechanisms that depend on the phase of the cell cycle, presence of helper molecules, and characteristics of the sequence undergoing repair. In some of these mechanisms, a single-stranded template is available, usually from a sister chromatid, and repair results are highly accurate. In others, a diverse set of often poorly-understood and error-prone processes can occur<sup>2</sup>. 
 
-The goal of my research this summer is to characterize DSB repair both broadly and in the context of a specific error-prone pathway known as synthesis-dependent microhomology-mediated end-joining (SD-MMEJ). Given a dataset of ~1,100 partly-randomized DNA constructs subject to Cas9-induced double-stranded breaks and subsequently repaired and sequenced, I will explore whether we can use sequence characteristics to characterize patterns in erroneous repair. A broad overview of the project splits this problem into two parts:
+The [McVey Lab](https://ase.tufts.edu/biology/labs/mcvey/) is interested in characterizing DSB repair both broadly and in the context of a specific error-prone pathway known as synthesis-dependent microhomology-mediated end-joining (SD-MMEJ). They have generated a dataset of ~1,100 partly-randomized DNA constructs subject to Cas9-induced double-stranded breaks and subsequently repaired and sequenced. The goal of my research this summer is to explore this dataset to see  whether we can use sequence characteristics to characterize patterns in erroneous repair. A broad overview of the project splits this problem into two parts:
 
 1.	Cluster constructs into bins based on sequence characteristics
 2.	Examine whether constructs within the same bin share similar “repair events” or mutations that occur during repair
 
-I will explore and analyze the results of various approaches to these two aims. This project is being developed in collaboration with the [McVey Lab](https://ase.tufts.edu/biology/labs/mcvey/), which studies DNA damage and repair using *Drosophila melanogaster*. 
+I will explore and analyze the results of various approaches to these two aims.
 
 
 ### References
