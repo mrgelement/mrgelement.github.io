@@ -7,7 +7,7 @@ title: Gelement DREAM Project Site
 
 I am a Master’s in Computer Science student at Tufts University in Medford, MA. Prior to my arrival at Tufts, I worked as an office manager and assistant at a literary agency in Brooklyn, NY. I earned a B.S. in Biology from The University of Alabama in 2016, where I wrote my honors senior thesis on the use of liquid chromatography-mass spectrometry (LC-MS) to detect endocrine-disrupting compounds in mangrove rivulus (*Kryptolebias marmoratus*) tissues.
  
-While at Tufts, I’ve been active in computational biology research: I’ve contributed to the development of a disease gene prioritization algorithm, ADAGIO (see [GitHub](https://github.com/merterden98/ADAGIO); paper to be published in the [ACM-BCB 2022]([https://acm-bcb.org/](https://dl.acm.org/doi/abs/10.1145/3535508.3545542) Conference Proceedings) and am currently working on a project analyzing DNA repair, which is the subject of my DREAM research this summer.
+While at Tufts, I’ve been active in computational biology research: I’ve contributed to the development of a disease gene prioritization algorithm, ADAGIO (see [GitHub](https://github.com/merterden98/ADAGIO); paper to be published in the [ACM-BCB 2022]((https://dl.acm.org/doi/abs/10.1145/3535508.3545542) Conference Proceedings) and am currently working on a project analyzing DNA repair, which is the subject of my DREAM research this summer.
  
 In my spare time, I bake, hike, and draw. I plan to graduate with my M.S. in Computer Science in May 2023.
 
