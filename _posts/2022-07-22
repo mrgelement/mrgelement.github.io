@@ -1,0 +1,14 @@
+---
+layout: post
+title: Week of July 18
+---
+
+This week, I finished a working, multithreaded draft of the custom aligner and was able to run it on the test files with a few different parameters. 
+
+Pairwise sequence alignment is well-suited to multithreading because of the nature of the problem; no alignment relies on any other, so performing multiple alignments at once is simple. Once I read in the FASTQ file of query sequences, I know how much memory to allocate for the metadata about each alignment, so that can be set aside in advance to avoid memory collisions (a common side-effect in multi-threaded processes).
+
+After running the aligner with a few different scoring schemes, I settled on using an *affine gap penalty* going forward. An optimal alignment between two sequences should minimize mismatches and gaps, so these operations are assigned penalty scores. A scoring scheme with an affine gap penalty has two different gap penalties: one for *initializing* a gap, and one for *extending* a gap. If the gap initialization penalty is harsher than the gap extension penalty, this scheme will favor alignments with fewer, longer gaps.
+
+On Wednesday and Thursday, I attended a DISC (Data Intensive Studies Center) workshop on high-throughput sequence alignment on the Tufts high-performance cluster (HPC). The first day was a primer on Linux commands and accessing the cluster, which was mostly unnecessary – however, I did learn a few cluster-related tips. Thursday’s workshop was more useful; I learned to use BWA-mem, a freely-available sequence alignment tool, and to visualize alignments in IGV (Integrative Genomics Viewer).
+
+On Friday, I met with Lenore, Mitch, and Nick about the status of the aligner. Our next step is to find the set of parameters that optimizes our results. 
