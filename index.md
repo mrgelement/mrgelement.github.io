@@ -18,7 +18,7 @@ In my spare time, I bake, hike, and draw. I plan to graduate with my M.S. in Com
 
 ## About My Project
 
-###Abstract: 
+### Abstract: 
 
 Pairwise sequence alignment is a necessary step in DNA repair analysis. A sequence that has undergone repair from a lesion such as a double-strand break must be aligned to its original, source sequence in order to identify any mutations that occurred during repair. Pairwise sequence alignment methods are commonly used in the identification of common ancestry or function between sequences. In this case, researchers seek an optimal sequence alignment that minimizes the misaligned bases between source and query sequences. Multiple such optimal alignments may exist between the same two sequences. When studying DNA repair, small differences between otherwise similarly-optimal alignments may confound characterization of repair pathways. To address this problem, we developed a custom pairwise sequence aligner designed to maximize control over alignment scoring and produce output designed specifically for ease of comparing repair outcomes. 
 
